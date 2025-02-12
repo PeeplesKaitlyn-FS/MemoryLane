@@ -33,6 +33,9 @@ body {
     flex-wrap: wrap;
     justify-content: center;
   }
+  article {
+    margin: 20px;
+  }
   
   .post {
     background-color: #f7f7f7;
