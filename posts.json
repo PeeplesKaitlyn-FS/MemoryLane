@@ -1,20 +1,20 @@
 [
     {
       "id": 1,
-      "title": "Post 1",
-      "content": "This is the content of post 1.",
+      "title": "My Favorite Season",
+      "content": "Summer is here! Long days, warm nights, and endless sunshine. A time for adventure, relaxation, and making memories with friends and family. Grab your sunglasses and soak up the fun!",
       "date": "2023-02-20"
     },
     {
       "id": 2,
-      "title": "Post 2",
-      "content": "This is the content of post 2.",
+      "title": "Art!",
+      "content": "Art speaks to the soul. A brushstroke of color, a splash of creativity, and emotions come alive. It inspires, heals, and connects us all. Let your imagination run wild and create your masterpiece!",
       "date": "2023-02-22"
     },
     {
       "id": 3,
-      "title": "Post 3",
-      "content": "This is the content of post 3.",
+      "title": "Random Thoughts",
+      "content": "Life is like a puzzle, with unexpected twists and turns. But that's what makes it interesting. Let's take a deep breath and see where the pieces take us today. Embrace the journey and enjoy the ride!",
       "date": "2023-02-25"
     }
   ]
